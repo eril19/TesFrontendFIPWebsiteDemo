@@ -1,0 +1,30 @@
+//Muhammad Eril Fario
+
+Tes Frontend FIP
+
+yang digunakan untuk membuat tampilan: HTML, CSS, JavaScript, Bootstrap, Google Font untuk font
+Text Editor/App yang digunakan: Visual Studio Code
+
+Asset yang digunakan dan diperoleh lewat Figma:
+Font: Nunito
+Side Color: #212121
+ambil Color: #006C84
+Blue Color: #002984
+rectangle 7.jpg (kotak horizontal putih)
+rectangle 8.jpg (kotak vertical putih)
+5b5281762889bb1cbc6b53f7339ecaef.png (gambar model)
+
+Query Search:
+- nunito font html
+- box shadow css
+- bootstrap 4 container
+- put body in the middle of website
+- javascript check if img src exists
+- make background image full size inside div
+- set background div
+- change id of another html page javascript
+- set background image javascript
+- run function when page loads javascript
+- how to set background image size
+- javascript jump into another html page
+- disable button javascript
