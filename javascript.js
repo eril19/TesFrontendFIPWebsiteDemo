@@ -2,13 +2,13 @@
 function takePicture(value){
     localStorage.setItem('key',value)
     alert("Image Taken!")
-    location.replace('../html/changePhoto.html')
+    location.replace('./changePhoto.html')
 }
 
 function setPicture(value){
     localStorage.setItem('key',value)
     alert("Image have been set to profile!")
-    location.replace('../html/index.html')
+    location.replace('./index.html')
 }
 
 
