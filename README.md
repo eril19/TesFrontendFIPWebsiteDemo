@@ -1,4 +1,3 @@
-###Tes Frontend Developer FIP
 Dalam repository ini, terdapat beberapa file html,javascript,css, dan gambar yang berserakan. Hal ini saya gunakan demi memudahkan saya untuk mempublish halaman agar 
 mempermudah penilaian dalam tes kali ini, untuk demonstrasi dari hasil tes frontend dapat dilihat pada link berikut:
 
