@@ -7,7 +7,8 @@ https://eril19.github.io/TesFrontendFIPWebsiteDemo/
 
 Untuk file utuh dan tertata, ada didalam folder "TesFrontEnd". Pada folder ini juga terdapat file .txt yang berisi query search yang saya pakai dalam
 menyelesaikan soal.
-Untuk menjalankan tampilan web, repository dapat diunduh terlebih dahulu. Saya menyarankan untuk menggunakan text editor seperti Visual Studio Code karena saya sendiri menggunakan text editor tersebut.
+Untuk menjalankan tampilan web, repository dapat diunduh terlebih dahulu dalam bentuk .zip dengan mengklik tombol hijau. 
+Saya menyarankan untuk menggunakan text editor seperti Visual Studio Code karena saya sendiri menggunakan text editor tersebut.
 
 Setelah diunduh, bapak/ibu dapat meng-klik kanan pada folder "TesFrontEnd" dan memilih pilihan "Open with Visual Studio Code",
 lalu, untuk memulai menjalankan web, bapak/ibu bisa drag file index.html atau run file index.html melalui VSC menggunakan browser pilihan
