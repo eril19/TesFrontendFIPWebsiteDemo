@@ -56,7 +56,7 @@ body{
 
 #displayPic{
     border-radius: 15px;
-    background-image: url('../Assets/camera.svg');
+    background-image: url('./camera.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%; 
@@ -197,7 +197,7 @@ button{
     border-radius: 8px;
     width: 100%;
     height: 579px;
-    background-image: url('../Assets/5b5281762889bb1cbc6b53f7339ecaef.png');
+    background-image: url('./5b5281762889bb1cbc6b53f7339ecaef.png');
     background-repeat: no-repeat;
     background-position: center; 
     background-size: 579px;
